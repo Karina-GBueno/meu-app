@@ -1,2 +1,2 @@
 # meu-app
-Meu primeiro app
+Meu primeiro repositório no GitHub!!
